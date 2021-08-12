@@ -1,0 +1,7 @@
+A Qmob Solutions é uma empresa especializada em treinamentos, consultoria e desenvolvimento de soluções baseadas nas tecnologias C++ e Qt. Criada por especialistas C++ e Qt com 20 anos de experiência, a Qmob Solutions preza pela oferta de treinamentos adaptados às necessidades do cliente e pelo desenvolvimento de soluções corretas e eficazes sob o ponto de vista da Engenharia de Software, reduzindo custos de manutenção e atendendo os requisitos não-funcionais mais importantes do projeto. Nosso foco é a entrega de soluções elegantes e funcionais para múltiplas plataformas: Windows, Linux, macOS, iOS, Android e plataformas embarcadas, agregando os diversos benefícios que o C++ e o Qt possuem ao manter um único código-fonte para múltiplas plataformas. A Qmob Solutions é também especialista na definição e implantação de processos maduros de desenvolvimento, de QA (Quality Assurance) e de CI/CD (Continuous Integration/Continuous Delivery), unindo agilidade e qualidade de processo e produto.
+
+Conforme apresentado em https://www.qt.io/contact-us/partners, somos o primeiro e único _Service Partner_ oficial da __The Qt Company__ (empresa que atualmente desenvolve o Qt) no Brasil e na América-Latina. Com isso, a Qmob Solutions estreita ainda mais o seu relacionamento com a comunidade global do Qt, garantindo treinamentos sempre atualizados, consultorias eficazes e produtivas, bem como acesso às novidades mais recentes do Qt.
+
+https://qmob.solutions
+
+![The Qt Company Service Partner](https://qmob.solutions/assets/img/service_partner.png)
